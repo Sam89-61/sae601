@@ -64,7 +64,6 @@ docker exec app_backend_a node insertTest.js
 
 | Service       | URL                        |
 |---------------|----------------------------|
-| **Frontend**  | http://localhost:5173       |
 | **Backend**   | http://localhost:5001       |
 | **Adminer**   | http://localhost:8081       |
 
