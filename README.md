@@ -36,7 +36,9 @@ PORT=5000
 DATABASE_URL=postgresql://appuser:apppassword@postgres:5432/appdb
 JWT_SECRET=une-clé-secrète-longue-et-aléatoire
 API_KEY=une-clé-api-quelconque
-GROQ_API_KEY=            # Laisser vide si pas de clé (fonctionnalités IA désactivées)
+# Laisser vide si pas de clé (fonctionnalités IA désactivées) mais vous pouvez vous en procurer une ici https://console.groq.com/home?utm_source=website&utm_medium=outbound_link&utm_campaign=dev_console_click
+GROQ_API_KEY=            
+
 FRONTEND_URL=http://localhost:5173
 ```
 
