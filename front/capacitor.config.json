@@ -1,0 +1,20 @@
+{
+  "appId": "com.buddycoach.app",
+  "appName": "BuddyCoach",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true,
+    "allowNavigation": [
+      "192.168.*.*"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0f0f0f"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
